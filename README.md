@@ -1,4 +1,4 @@
-# N'arretez jamais d'apprendre 
+# N'arretez jamais d'apprendre ................
 
 Je m'interesse a l'intelligence artificielle depuis un certain temps.
 Curieux et passionné d'informatique, j'ai voulu savoir et comprendre comment fonctionne cette intelligence artificielle.
