@@ -16,6 +16,7 @@ Ensuite je me suis interressé à une brancehe particuliere de l'intelligence ar
 Celle de l'apprentissage en profondeur avec les reseaux de neurones.
 
 Par ou commencer ?
+Definition de l'apprentissage en profondeur ........
 
 
 
