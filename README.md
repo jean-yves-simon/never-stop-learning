@@ -18,7 +18,7 @@ Celle de l'apprentissage en profondeur avec les reseaux de neurones.
 Par ou commencer ?
 Definition de l'apprentissage en profondeur ........
 
-
+Ici Je ne vais pas réinventer la roue ,😀
 
 
 
