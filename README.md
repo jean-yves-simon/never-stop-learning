@@ -15,6 +15,8 @@ Pour commencer vous devez installer anacaonda. Pour moi c'est indispensable. Il 
 Ensuite je me suis interressé à une brancehe particuliere de l'intelligence artificielle : 
 Celle de l'apprentissage en profondeur avec les reseaux de neurones.
 
+Par ou commencer ?
+
 
 
 
