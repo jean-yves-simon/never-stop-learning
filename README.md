@@ -1,5 +1,11 @@
 # N'arretez jamais d'apprendre 
 
+Je m'interesse a l'intelligence artificielle depuis un certain temps.
+Curieux et passionné d'informatique, j'ai voulu savoir et comment fonctionne cette intelligence artificielle.
+Ce que j'ai appris et continu d'apprendre j'ai eu envie de le noter ici.
+
+
+
 L'analyse de régression utilisant des réseaux de neurones artificiels (ANN) est une technique statistique utilisée pour prédire la valeur d'une variable dépendante sur la base d'une ou plusieurs variables indépendantes
 L'analyse de régression linéaire multiple à l'aide de réseaux de neurones artificiels (ANN) est une technique d'apprentissage automatique qui utilise des réseaux de neurones pour prédire une variable de sortie continue en fonction de variables d'entrée.
 # Régression linéaire avec entrées multiples
