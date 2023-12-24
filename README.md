@@ -1,7 +1,7 @@
 # N'arretez jamais d'apprendre 
 
 Je m'interesse a l'intelligence artificielle depuis un certain temps.
-Curieux et passionné d'informatique, j'ai voulu savoir et comment fonctionne cette intelligence artificielle.
+Curieux et passionné d'informatique, j'ai voulu savoir et comprendre comment fonctionne cette intelligence artificielle.
 Ce que j'ai appris et continu d'apprendre j'ai eu envie de le noter ici.
 
 
