@@ -2,7 +2,7 @@
 
 Je m'interesse a l'intelligence artificielle depuis un certain temps.
 Curieux et passionné d'informatique, j'ai voulu savoir et comprendre comment fonctionne cette intelligence artificielle.
-Ce que j'ai appris et continu d'apprendre j'ai eu envie de le noter ici.
+Ce que j'ai appris et continu d'apprendre j'ai eu envie de le partager ici.
 De nombreux outils sont à notre disposition, des API  comme, Tensorflow, Keras etc . De nombreuses bibliotheques Numpy, Panda, matplotlib etc. . Et bien sur le plus important : Python.
 Il n'est pas obligatoire d'avoir un ordinateur tres puissant. Si l'entrainement d'un modele d'apprentissage necessite un puissance de calcul important, nous avons google colab et kaggle qui mette à notre disposition gratuitement des GPU puissants.
 Personnellement je travaille alternativement sous Ubuntu et MAC
