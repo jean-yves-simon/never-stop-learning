@@ -11,7 +11,8 @@ Pour realiser ce que l'on appelle des modeles d'apprentissage de nombreux outils
 Il n'est pas necessaire d'avoir des connaissances approfondies sur ce langage, mais c'est un plus.
 d'abord un ordinateur pas necessairement tres puissant. Si l'entrainement d'un modele d'apprentissage necessite un puissance de calcul plus important, nous avons google colab et kaggle qui mettent à notre disposition gratuitement un GPU puissant.
 Pour l'environnement de travail je suis sous Ubuntu et MAC.
-Pour commencer vous devez installer anacaonda. Pour moi c'est indispensable. Il nous permet d'utiliser les notebook Jupyter. Il est tres conviviale et plus agreable que d'etre en mode terminal.
+j'utilise kaggle pour editer du code.
+Anaconda est trop lourd.
 Ensuite je me suis interressé à une brancehe particuliere de l'intelligence artificielle : 
 Celle de l'apprentissage en profondeur avec les reseaux de neurones.
 
